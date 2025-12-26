@@ -260,6 +260,8 @@ This data story is provided as a template and example. Feel free to adapt for yo
 
 **Idea Credits:** Inspired by [@sanand0's code review data story](https://github.com/sanand0/datastories/tree/main/code-review-shubham)
 
+**Methodology:** The analysis was conducted using AI-assisted code review prompts. See [prompts.md](prompts.md) for the complete methodology and prompts used.
+
 **Analysis Date:** December 23, 2025  
 **Repositories Analyzed:** 86  
 **Time Invested:** 1 hours  
